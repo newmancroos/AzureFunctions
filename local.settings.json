@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=newmanfunction9c13;AccountKey=WHjBUAS7In94rXzq1YzHCMXK/AoDbW8sl4ph2L6M4m6D/hIFCoSrP1je3oNzPyR64BtpMYXkTGinxM9YbmaeRQ==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
+
+
